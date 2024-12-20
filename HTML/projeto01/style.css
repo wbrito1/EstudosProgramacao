@@ -1,0 +1,8 @@
+.navegacao {
+    display: flex;
+    gap: 100px;
+    position: absolute;
+    left: 100px;
+    top: 10px;
+    
+}
