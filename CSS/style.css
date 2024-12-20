@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Times New Roman';
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 9.2rem;
+    font-weight: 900;
+    text-transform: capitalize;
+    text-align: center;
+}
+h1, h2 {
+    font-family: 'roboto';
+}
+
+.bg {
+    width: 100%;
+    height: 50.0rem;
+    background-color: #555;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUgRZbnyYc6a1EqHMkpNdpuDiE_S0xEvzhmQ&s);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+p {
+    text-align: justify;
+    text-indent: 9.0rem;
+}
